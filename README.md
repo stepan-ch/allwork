@@ -44,9 +44,9 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/z1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/z2.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/z3.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/z4.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/k1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/k2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/k3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/k4.jpg)
 
 ---
