@@ -31,3 +31,10 @@
 
 ---
 
+`Развернутая виртуальная машина Ubuntu 22.04. Установка и настройка PostgreSQL+nginx+zabbix-server+zabbixagent.`
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/z1.jpg)
+
+---
