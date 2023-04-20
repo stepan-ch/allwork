@@ -20,3 +20,14 @@
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/a2.jpg)
 
 ---
+
+`Базовая настройки файлового хранилища SAMBA сервер`
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/s1.jpg)
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/s2.jpg)
+
+---
+
