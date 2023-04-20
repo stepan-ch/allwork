@@ -38,3 +38,15 @@
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/z1.jpg)
 
 ---
+
+
+`Отказоустойчивость при помощи балансировочной нагрузки в сзяке keepalived и HAproxy. 1-я и 2-я нода. `
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/z1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/z2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/z3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/z4.jpg)
+
+---
