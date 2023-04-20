@@ -60,3 +60,12 @@
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/nm2.jpg)
 
 ---
+
+`Пример установки MySQL + добавление пользователей + создание и backup базы данных`
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/my1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/my2.jpg)
+
+---
