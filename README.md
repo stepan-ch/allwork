@@ -50,3 +50,13 @@
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/k4.jpg)
 
 ---
+
+
+`Разведка пинг тестингом на сетивую достпуность. И пример утилиты arpspoof, навязывания ложного марширута. Схема полуперехвата, в рамках локальной сети.`
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/nm1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/nm2.jpg)
+
+---
