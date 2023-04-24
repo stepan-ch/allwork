@@ -100,6 +100,6 @@
 6.	Проверить правильность работы сервера. Должны быть доступны:
 
 
-[пример](https://github.com/stepan-ch/allwork/blob/main/ssh_ft_raid.docx)
+[ссылка на файл .docx с содержимым](https://github.com/stepan-ch/allwork/blob/main/ssh_ft_raid.docx)
 
 ---
