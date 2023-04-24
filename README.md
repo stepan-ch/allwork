@@ -8,11 +8,11 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/nat_dhcp_dns.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/nat_dhcp_dns2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns2.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/nat_dhcp_dns3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns3.jpg)
 
 
 ---
@@ -21,9 +21,9 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/a1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/a1.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/a2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/a2.jpg)
 
 ---
 
@@ -31,9 +31,9 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/s1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/s1.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/s2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/s2.jpg)
 
 ---
 
@@ -41,7 +41,7 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/z1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/z1.jpg)
 
 ---
 
@@ -50,10 +50,10 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/k1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/k2.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/k3.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/k4.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/k1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/k2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/k3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/k4.jpg)
 
 ---
 
@@ -62,8 +62,8 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/nm1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/nm2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nm1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nm2.jpg)
 
 ---
 
@@ -71,8 +71,8 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/my1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/my2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my2.jpg)
 
 ---
 
@@ -87,8 +87,8 @@
 
 --
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/j1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/j2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j2.jpg)
 
 ---
 
