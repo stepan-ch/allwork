@@ -7,7 +7,7 @@
 
 
 --
-<a href="https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg"><img src="https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg" align="left" height="48" width="48" ></a>
+<a href="https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg"><img src="https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg" align="left" height="500" width="700" ></a>
 
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg)
