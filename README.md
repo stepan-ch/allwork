@@ -1,6 +1,18 @@
 # Портфолио </> Системный администратор
 `Степан Чечель`
 
+### Демонтрация практической работы установка программы joomla на локальный сервер, посредством подключения через сетевой протокол прикладного уровня SSH, чтобы производить удаленное управление операционной системой Linux и его конфигурирование.
+- Виртуальная машина ubuntu 22.04 live server.
+- MySQL Ver. 8.0.32
+- PHP 8.0.28
+- Nginx nginx/1.18.0
+- Joomla 4.3.0
+- Fail2ban защиты от брут-форс атак.
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j2.jpg)
 
 ### Лабораторная работа 1
 
@@ -101,21 +113,5 @@
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my1.jpg)
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my2.jpg)
-
----
-
-
-### Демонтрация практической работы установка программы joomla на локальный сервер, посредством подключения через сетевой протокол прикладного уровня SSH, чтобы производить удаленное управление операционной системой Linux и его конфигурирование.
-- Виртуальная машина ubuntu 22.04 live server.
-- MySQL Ver. 8.0.32
-- PHP 8.0.28
-- Nginx nginx/1.18.0
-- Joomla 4.3.0
-- Fail2ban защиты от брут-форс атак.
-
---
-
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j2.jpg)
 
 ---
