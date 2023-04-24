@@ -29,7 +29,8 @@
 ---
 
 
-### Настройка топологии сети NAT/DHCP/DNS в программе Cisco Packet Tracer
+### Лабораторная работа 3 
+- Настройка топологии сети NAT/DHCP/DNS в программе Cisco Packet Tracer.
 
 --
 
