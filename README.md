@@ -14,7 +14,8 @@
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns3.jpg)
 
-
+-
+-
 ---
 
 `Пример работы Ansible c автоматизацией playbook`
