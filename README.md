@@ -12,7 +12,7 @@
 6.	Проверить правильность работы сервера. Должны быть доступны:
 
 
-[Ссылка на файл .docx с содержимым](https://github.com/stepan-ch/allwork/blob/main/ssh_ft_raid.docx)
+[Ссылка на файл .docx с содержимым](https://github.com/stepan-ch/allwork/blob/main/img/ssh_ft_raid.docx)
 
 ---
 
@@ -24,7 +24,7 @@
 4. Имплементировать скрипт локального резервного копирования
 5. автоматизировать его запуск
 
-[Ссылка на файл .docx с содержимым](https://github.com/stepan-ch/allwork/blob/main/d.docx)
+[Ссылка на файл .docx с содержимым](https://github.com/stepan-ch/allwork/blob/main/img/d.docx)
 
 ---
 
