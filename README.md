@@ -37,7 +37,7 @@
 
 ---
 
-### Развернутая виртуальная машина Ubuntu 22.04. Установка и настройка PostgreSQL+nginx+zabbix-server+zabbixagent.
+### Развернутая виртуальная машина Ubuntu 22.04. Установка и настройка PostgreSQL + nginx + zabbix-server + zabbixagent.
 
 --
 
