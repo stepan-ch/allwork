@@ -91,3 +91,15 @@
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/j2.jpg)
 
 ---
+
+1.	Создать виртуальную машину Linux.
+2.	Установить службу FTP (например, vsftpd).
+3.	Установить службу HTTP (например, nginx).
+4.	Добавить в систему два накопителя.
+5.	Настроить RAID (зеркало) на этих накопителях.
+6.	Проверить правильность работы сервера. Должны быть доступны:
+
+
+[пример](https://github.com/stepan-ch/allwork/blob/main/ssh_ft_raid.docx)
+
+---
