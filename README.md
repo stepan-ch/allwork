@@ -28,6 +28,7 @@
 
 ### Базовая установка и настройки файлового хранилища SAMBA сервер
 
+
 --
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/s1.jpg)
