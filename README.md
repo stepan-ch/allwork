@@ -7,6 +7,7 @@
 
 
 --
+<a href="url"><img src="[http://url.to/image.png](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg)" align="left" height="48" width="48" ></a>
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nat_dhcp_dns.jpg)
 
