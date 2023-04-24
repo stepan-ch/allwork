@@ -2,9 +2,6 @@
 `Степан Чечель`
 
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j2.jpg)
-
 ### Лабораторная работа 1
 
 1.	Создать виртуальную машину Linux.
@@ -54,6 +51,10 @@
 - Nginx nginx/1.18.0
 - Joomla 4.3.0
 - Fail2ban защиты от брут-форс атак.
+
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/j2.jpg)
 
 ---
 
