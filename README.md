@@ -4,8 +4,6 @@
 
 ### Настройка топологии сети NAT/DHCP/DNS в программе Cisco Packet Tracer
 
-
-
 --
 
 
