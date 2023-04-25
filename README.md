@@ -29,6 +29,16 @@
 ---
 
 
+### Пример установки MySQL + создание базы данных + backup базы данных и восстановление
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my2.jpg)
+
+---
+
+
 ### Реализация отказоустойчивости репликации MySQL, MASTER-SLAVE
 --
 
@@ -118,14 +128,5 @@
 
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nm1.jpg)
 ![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/nm2.jpg)
-
----
-
-### Пример установки MySQL + создание базы данных + backup базы данных и восстановление
-
---
-
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my1.jpg)
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/my2.jpg)
 
 ---
