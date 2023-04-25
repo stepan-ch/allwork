@@ -29,6 +29,17 @@
 ---
 
 
+### Реализация отказоустойчивости репликации MySQL, MASTER-SLAVE
+--
+
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/r1.jpg)
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/r2.jpg)
+
+---
+
+
 ### Лабораторная работа 3 
 - Настройка топологии сети NAT/DHCP/DNS в программе Cisco Packet Tracer.
 
