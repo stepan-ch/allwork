@@ -61,16 +61,16 @@
 
 
 ### Лабораторная работа 3 
-- Конфигурация vlan(виртуальная локальная сеть), на примере vlan с двумя отделами HR и IT.
+- Конфигурация vlan (виртуальная локальная сеть).
 
 --
 
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/v1.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/v2.jpg)
 
-![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/v3.jpg)
 
 
 ---
