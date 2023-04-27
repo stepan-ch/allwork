@@ -61,6 +61,22 @@
 
 
 ### Лабораторная работа 3 
+- Конфигурация vlan(виртуальная локальная сеть), на примере vlan с двумя отделами HR и IT.
+
+--
+
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan.jpg)
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan2.jpg)
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/vlan3.jpg)
+
+
+---
+
+
+### Лабораторная работа 4 
 - Настройка топологии сети NAT/DHCP/DNS в программе Cisco Packet Tracer.
 
 --
