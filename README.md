@@ -136,6 +136,19 @@
 ---
 
 
+### Установка и конфигурация MySQL Cluster на основе PERCONA XtraDB.
+На примере 3 локальных сервера, установленно PERCONA XtraDB в объеднином в кластер и на каждый севрер установлен keepalived. Если один из серверов выходит из строя, то виртуальный адрес(плавающий IP) переходит на другой сервер, таким образом продолжают работать другие сервера.
+
+--
+
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/p1.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/p2.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/p3.jpg)
+![Image alt](https://github.com/stepan-ch/allwork/blob/main/img/p4.jpg)
+
+---
+
+
 ### Отказоустойчивость при помощи балансировочной нагрузки в связке keepalived и HAproxy. 1-я и 2-я нода.
 
 --
